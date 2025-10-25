@@ -1,0 +1,13 @@
+{
+  "import": ["../cspell.json"],
+  "enabledLanguageIds": [
+    "markdown",
+    "plaintext",
+    "typescript",
+    "javascript",
+    "typescriptreact",
+    "javascriptreact",
+    "json",
+    "jsonc"
+  ]
+}

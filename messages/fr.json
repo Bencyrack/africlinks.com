@@ -1,0 +1,139 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "accueil": "Accueil",
+    "about": "À propos",
+    "à propos": "À propos",
+    "missions": "Missions",
+    "projects": "Projets",
+    "projets": "Projets",
+    "contact": "Contact",
+    "admin": "Administration",
+    "partners": "Partenaires",
+    "partenaires": "Partenaires"
+  },
+  "common": {
+    "readMore": "Lire la suite",
+    "learnMore": "En savoir plus",
+    "download": "Télécharger",
+    "share": "Partager",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "noResults": "Aucun résultat trouvé",
+    "backToHome": "Retour à l'accueil",
+    "close": "Fermer",
+    "open": "Ouvrir",
+    "menu": "Menu",
+    "language": "Langue"
+  },
+  "home": {
+    "hero": {
+      "title": "Forum sur la Diplomatie Économique Interafricaine",
+      "subtitle": "Promouvoir l'économie, la diversité culturelle, l'éducation, la coopération économique et les initiatives de la Francophonie à l'échelle Africaine",
+      "cta": "Découvrir nos missions"
+    },
+    "sections": {
+      "projects": {
+        "title": "Projets phares",
+        "subtitle": "Découvrez nos initiatives pour le développement économique africain"
+      },
+      "media": {
+        "title": "Médiathèque",
+        "subtitle": "Photos, vidéos et documents de nos activités"
+      },
+      "partners": {
+        "title": "Nos partenaires",
+        "subtitle": "Ensemble pour un développement économique durable"
+      }
+    }
+  },
+  "about": {
+    "title": "À propos d'Afric Links",
+    "mission": {
+      "title": "Notre mission",
+      "content": "Afric Links œuvre pour le développement de la diplomatie économique africaine en promouvant la coopération, l'éducation et la diversité culturelle à travers la Francophonie."
+    },
+    "values": {
+      "title": "Nos valeurs",
+      "items": {
+        "cooperation": {
+          "title": "Intégrité et transparence",
+          "description": "Nous agissons avec honnêteté, responsabilité et respect des règles."
+        },
+        "education": {
+          "title": "Éducation",
+          "description": "Promouvoir l'éducation comme pilier du développement économique"
+        },
+        "diversity": {
+          "title": "Diversité culturelle",
+          "description": "Célébrer et préserver la richesse culturelle africaine"
+        },
+        "innovation": {
+          "title": "Innovation",
+          "description": "Encourager l'innovation et les nouvelles technologies"
+        }
+      }
+    }
+  },
+  "missions": {
+    "title": "Nos missions",
+    "economic": {
+      "title": "Diplomatie économique",
+      "description": "Renforcer les relations économiques entre les pays africains francophones"
+    },
+    "education": {
+      "title": "Éducation et formation",
+      "description": "Développer les programmes éducatifs et la mobilité des enseignants"
+    },
+    "culture": {
+      "title": "Promotion culturelle",
+      "description": "Valoriser la diversité culturelle et linguistique africaine"
+    },
+    "cooperation": {
+      "title": "Coopération internationale",
+      "description": "Faciliter les partenariats et les échanges internationaux"
+    }
+  },
+  "contact": {
+    "title": "Nous contacter",
+    "form": {
+      "name": "Nom complet",
+      "email": "Adresse email",
+      "organization": "Organisation",
+      "subject": "Sujet",
+      "message": "Message",
+      "send": "Envoyer le message",
+      "success": "Votre message a été envoyé avec succès",
+      "error": "Erreur lors de l'envoi du message"
+    },
+    "info": {
+      "address": "Adresse",
+      "phone": "Téléphone",
+      "email": "Email",
+      "hours": "Horaires d'ouverture"
+    }
+  },
+  "footer": {
+    "description": "Forum sur la Diplomatie Économique Interafricaine - Promouvoir le développement économique africain à travers la Francophonie",
+    "links": {
+      "organization": "Organisation",
+      "organisation": "Organisation",
+      "programs": "Programmes",
+      "programmes": "Programmes",
+      "resources": "Ressources",
+      "ressources": "Ressources",
+      "contact": "Contact"
+    },
+    "social": "Suivez-nous",
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Recevez nos dernières actualités",
+      "placeholder": "Votre adresse email",
+      "subscribe": "S'abonner"
+    },
+    "copyright": "© 2025 Afric Links. Tous droits réservés."
+  }
+}

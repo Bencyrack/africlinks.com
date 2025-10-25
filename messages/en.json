@@ -1,0 +1,138 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "missions": "Missions",
+    "news": "News",
+    "projects": "Projects",
+    "resources": "Resources",
+    "media": "Media",
+    "contact": "Contact",
+    "admin": "Administration"
+  },
+  "common": {
+    "readMore": "Read more",
+    "learnMore": "Learn more",
+    "download": "Download",
+    "share": "Share",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "noResults": "No results found",
+    "backToHome": "Back to home",
+    "close": "Close",
+    "open": "Open",
+    "menu": "Menu",
+    "language": "Language"
+  },
+  "home": {
+    "hero": {
+      "title": "International Forum on Economic Diplomacy",
+      "subtitle": "Promoting economy, cultural diversity, education, economic cooperation and Francophonie initiatives across Africa",
+      "cta": "Discover our missions"
+    },
+    "sections": {
+      "news": {
+        "title": "Latest news",
+        "subtitle": "Stay informed about our latest initiatives and events"
+      },
+      "projects": {
+        "title": "Key projects",
+        "subtitle": "Discover our initiatives for African economic development"
+      },
+      "media": {
+        "title": "Media library",
+        "subtitle": "Photos, videos and documents of our activities"
+      },
+      "partners": {
+        "title": "Our partners",
+        "subtitle": "Together for sustainable economic development"
+      }
+    }
+  },
+  "about": {
+    "title": "About Afric Links",
+    "mission": {
+      "title": "Our mission",
+      "content": "Afric Links works for the development of African economic diplomacy by promoting cooperation, education and cultural diversity through the Francophonie."
+    },
+    "values": {
+      "title": "Our values",
+      "items": {
+        "cooperation": {
+          "title": "Excellence et professionnalisme",
+          "description": "Nous agissons avec honnêteté, responsabilité et respect des règles."
+        },
+        "education": {
+          "title": "Excellence et professionnalisme",
+          "description": "Nous agissons avec honnêteté, responsabilité et respect des règles."
+        },
+        "diversity": {
+          "title": "Excellence et professionnalisme",
+          "description": "Nous agissons avec honnêteté, responsabilité et respect des règles."
+        },
+        "innovation": {
+          "title": "Innovation",
+          "description": "Encourage innovation and new technologies"
+        }
+      }
+    }
+  },
+  "missions": {
+    "title": "Our missions",
+    "economic": {
+      "title": "Economic diplomacy",
+      "description": "Strengthen economic relations between French-speaking African countries"
+    },
+    "education": {
+      "title": "Education and training",
+      "description": "Develop educational programs and teacher mobility"
+    },
+    "culture": {
+      "title": "Cultural promotion",
+      "description": "Promote African cultural and linguistic diversity"
+    },
+    "cooperation": {
+      "title": "International cooperation",
+      "description": "Facilitate partnerships and international exchanges"
+    }
+  },
+  "contact": {
+    "title": "Contact us",
+    "form": {
+      "name": "Full name",
+      "email": "Email address",
+      "organization": "Organization",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send message",
+      "success": "Your message has been sent successfully",
+      "error": "Error sending message"
+    },
+    "info": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Opening hours"
+    }
+  },
+  "footer": {
+    "description": "International Forum on Economic Diplomacy - Promoting African economic development through the Francophonie",
+    "links": {
+      "organization": "Organization",
+      "programs": "Programs",
+      "resources": "Resources",
+      "contact": "Contact"
+    },
+    "social": "Follow us",
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Receive our latest news",
+      "placeholder": "Your email address",
+      "subscribe": "Subscribe"
+    },
+    "copyright": "© 2025 Afric Links. All rights reserved."
+  }
+}
