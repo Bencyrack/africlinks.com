@@ -266,8 +266,8 @@ Pour contribuer au projet :
 ## 📞 Contact
 
 Pour toute question ou suggestion :
-- Email : contact@africlinks.org
-- Website : https://africlinks.org
+- Email : contact@africlinks.com
+- Website : https://africlinks.com
 
 ---
 

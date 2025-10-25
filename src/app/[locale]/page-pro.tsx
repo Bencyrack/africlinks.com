@@ -86,10 +86,10 @@ export default function HomePage() {
             Forum International sur la<br />Diplomatie Économique
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto animate-fade-in-up animation-delay-200">
-            Promouvoir l'économie, la diversité culturelle, l'éducation et la coopération économique à l'échelle africaine
+            
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-in-up animation-delay-400">
-            <Link href="/missions" className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 font-bold py-4 px-8 rounded-lg transition-all hover:scale-105 transform inline-flex items-center justify-center">
+            <Link href="/missions" className="bg-yellow-500 hover:bg-yellow-Promouvoir l'économie, la diversité culturelle, l'éducation et la coopération économique à l'échelle africaine600 text-gray-900 font-bold py-4 px-8 rounded-lg transition-all hover:scale-105 transform inline-flex items-center justify-center">
               Découvrir nos missions
               <ArrowRight className="ml-2 h-5 w-5" />
             </Link>
