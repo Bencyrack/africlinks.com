@@ -108,14 +108,18 @@ export default function HeroSection() {
       <div className="container mx-auto px-4 relative z-10">
         <div className="max-w-6xl mx-auto">
           {/* Fond semi-transparent pour meilleure lisibilité */}
-          <div className="bg-black/30 backdrop-blur-sm rounded-3xl p-10 md:p-16 text-center">
+          <div className="bg-black/60 backdrop-blur-md rounded-3xl p-10 md:p-16 text-center shadow-2xl">
             <motion.h1
               initial={{ opacity: 0, y: 30 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8 }}
-              className="text-4xl md:text-6xl lg:text-7xl font-heading font-bold mb-8 leading-tight text-white drop-shadow-[0_6px_20px_rgba(0,0,0,0.9)]"
+              className="text-4xl md:text-6xl lg:text-7xl font-heading font-bold mb-8 leading-tight"
+              style={{
+                color: '#FFFFFF',
+                textShadow: '0 0 30px rgba(0,0,0,1), 0 0 20px rgba(0,0,0,0.9), 0 4px 15px rgba(0,0,0,0.8), 2px 2px 8px rgba(0,0,0,0.9)'
+              }}
             >
-              <strong>Forum sur la Diplomatie Économique Interafricaine</strong>
+              <strong style={{ color: '#FFFFFF' }}>Forum sur la Diplomatie Économique Interafricaine</strong>
             </motion.h1>
 
             <motion.div
@@ -126,10 +130,10 @@ export default function HeroSection() {
             >
               <Link
                 href="/missions"
-                className="inline-flex items-center px-10 py-5 font-semibold rounded-full transition-all duration-300 group transform hover:scale-105"
+                className="inline-flex items-center px-10 py-5 font-bold rounded-full transition-all duration-300 group transform hover:scale-105 shadow-xl"
                 style={{
                   backgroundColor: '#FFC400',
-                  color: '#1C355E'
+                  color: '#000000'
                 }}
               >
                 <span className="text-lg">Découvrir nos missions</span>
@@ -137,11 +141,12 @@ export default function HeroSection() {
               </Link>
               
               <button 
-                className="inline-flex items-center px-10 py-5 font-semibold rounded-full transition-all duration-300 group"
+                className="inline-flex items-center px-10 py-5 font-bold rounded-full transition-all duration-300 group shadow-xl"
                 style={{
-                  border: '2px solid #1C355E',
-                  color: '#1C355E',
-                  backgroundColor: 'transparent'
+                  border: '3px solid #FFFFFF',
+                  color: '#FFFFFF',
+                  backgroundColor: 'rgba(255, 255, 255, 0.1)',
+                  backdropFilter: 'blur(10px)'
                 }}
               >
                 <Play className="mr-3 h-5 w-5 group-hover:scale-110 transition-transform" />

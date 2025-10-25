@@ -33,49 +33,126 @@
     "hero": {
       "title": "Forum sur la Diplomatie Économique Interafricaine",
       "subtitle": "Promouvoir l'économie, la diversité culturelle, l'éducation, la coopération économique et les initiatives de la Francophonie à l'échelle Africaine",
-      "cta": "Découvrir nos missions"
+      "cta": "Découvrir nos missions",
+      "ctaSecondary": "Voir la vidéo"
+    },
+    "stats": {
+      "countries": "54 Pays Membres",
+      "speakers": "300M+ Francophones",
+      "projects": "150+ Projets Réalisés",
+      "experience": "25+ Années d'Expérience"
+    },
+    "news": {
+      "title": "Dernières Actualités",
+      "subtitle": "Restez informé de nos dernières initiatives et événements",
+      "items": [
+        {
+          "title": "Sommet Économique Afrique-France 2025",
+          "date": "15 Mars 2025",
+          "category": "Événement",
+          "excerpt": "Plus de 500 dirigeants africains et français se réuniront à Brazzaville pour discuter des opportunités d'investissement et renforcer les partenariats économiques entre l'Afrique et la France."
+        },
+        {
+          "title": "Nouveau Programme de Bourses d'Études",
+          "date": "10 Mars 2025",
+          "category": "Éducation",
+          "excerpt": "Lancement d'un programme ambitieux de 1000 bourses d'excellence pour les étudiants africains francophones dans les domaines de l'ingénierie, de la médecine et des sciences économiques."
+        },
+        {
+          "title": "Accord de Coopération Culturelle Historique",
+          "date": "5 Mars 2025",
+          "category": "Culture",
+          "excerpt": "Signature d'un accord historique entre 15 pays africains pour la promotion des arts, de la culture et du patrimoine africain francophone à l'échelle internationale."
+        }
+      ]
     },
     "sections": {
       "projects": {
-        "title": "Projets phares",
-        "subtitle": "Découvrez nos initiatives pour le développement économique africain"
+        "title": "Projets Phares",
+        "subtitle": "Découvrez nos initiatives concrètes pour le développement économique africain",
+        "items": [
+          {
+            "title": "Zone de Libre-Échange Continentale Africaine",
+            "description": "Facilitation des échanges commerciaux entre 25 pays africains francophones avec la suppression progressive des barrières tarifaires et non tarifaires.",
+            "impact": "€2.5M d'investissements",
+            "status": "En cours"
+          },
+          {
+            "title": "Programme d'Excellence Académique",
+            "description": "Formation de 10,000 étudiants africains dans les domaines stratégiques : technologie, santé, agriculture durable et énergies renouvelables.",
+            "impact": "500+ bourses attribuées",
+            "status": "Actif"
+          },
+          {
+            "title": "Initiative Entrepreneuriat Jeunesse",
+            "description": "Soutien aux jeunes entrepreneurs africains avec mentorat, formation et financement pour créer des entreprises innovantes et durables.",
+            "impact": "150+ startups accompagnées",
+            "status": "Actif"
+          }
+        ]
       },
       "media": {
         "title": "Médiathèque",
-        "subtitle": "Photos, vidéos et documents de nos activités"
+        "subtitle": "Photos, vidéos et documents de nos activités et événements"
       },
       "partners": {
-        "title": "Nos partenaires",
-        "subtitle": "Ensemble pour un développement économique durable"
+        "title": "Nos Partenaires Stratégiques",
+        "subtitle": "Ensemble pour un développement économique durable et inclusif de l'Afrique francophone"
+      },
+      "cta": {
+        "title": "Rejoignez-nous dans notre mission",
+        "subtitle": "Ensemble, construisons un avenir prospère pour l'Afrique francophone",
+        "button": "Devenir Partenaire"
       }
     }
   },
   "about": {
     "title": "À propos d'Afric Links",
+    "subtitle": "Un acteur majeur de la diplomatie économique africaine depuis 25 ans",
     "mission": {
-      "title": "Notre mission",
-      "content": "Afric Links œuvre pour le développement de la diplomatie économique africaine en promouvant la coopération, l'éducation et la diversité culturelle à travers la Francophonie."
+      "title": "Notre Mission",
+      "content": "Afric Links est une organisation panafricaine dédiée au développement de la diplomatie économique africaine. Nous œuvrons pour renforcer la coopération économique, promouvoir l'éducation d'excellence, valoriser la diversité culturelle et faciliter les échanges commerciaux entre les pays africains francophones et leurs partenaires internationaux."
+    },
+    "vision": {
+      "title": "Notre Vision",
+      "content": "Faire de l'Afrique francophone un pôle économique dynamique, innovant et prospère, où chaque citoyen a accès aux opportunités de développement personnel et professionnel, dans le respect de la diversité culturelle et linguistique."
     },
     "values": {
-      "title": "Nos valeurs",
+      "title": "Nos Valeurs Fondamentales",
       "items": {
+        "integrity": {
+          "title": "Intégrité et Transparence",
+          "description": "Nous agissons avec honnêteté, responsabilité et respect des règles dans toutes nos actions et partenariats."
+        },
+        "excellence": {
+          "title": "Excellence et Qualité",
+          "description": "Nous visons l'excellence dans tous nos programmes et initiatives pour garantir un impact durable et mesurable."
+        },
         "cooperation": {
-          "title": "Intégrité et transparence",
-          "description": "Nous agissons avec honnêteté, responsabilité et respect des règles."
+          "title": "Coopération et Solidarité",
+          "description": "Nous croyons en la force de la collaboration et des partenariats pour atteindre nos objectifs communs."
         },
         "education": {
-          "title": "Éducation",
-          "description": "Promouvoir l'éducation comme pilier du développement économique"
+          "title": "Éducation et Formation",
+          "description": "Nous considérons l'éducation comme le pilier fondamental du développement économique et social."
         },
         "diversity": {
-          "title": "Diversité culturelle",
-          "description": "Célébrer et préserver la richesse culturelle africaine"
+          "title": "Diversité Culturelle",
+          "description": "Nous célébrons et préservons la richesse culturelle et linguistique de l'Afrique francophone."
         },
         "innovation": {
-          "title": "Innovation",
-          "description": "Encourager l'innovation et les nouvelles technologies"
+          "title": "Innovation et Modernité",
+          "description": "Nous encourageons l'innovation, les nouvelles technologies et l'entrepreneuriat pour transformer l'économie africaine."
         }
       }
+    },
+    "history": {
+      "title": "Notre Histoire",
+      "content": "Fondé en 2000, Afric Links est né de la volonté de leaders africains visionnaires de créer une plateforme de dialogue et de coopération économique entre les pays africains francophones. Au fil des années, nous avons élargi notre mission pour inclure l'éducation, la culture et l'innovation, devenant ainsi un acteur incontournable du développement économique africain."
+    },
+    "team": {
+      "title": "Notre Équipe",
+      "description": "Une équipe d'experts passionnés et engagés au service du développement africain"
     }
   },
   "missions": {
